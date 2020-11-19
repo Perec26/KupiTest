@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KupiTest</string>
+    <string name="profile">Профиль</string>
+    <string name="read_books">Прочитанные книги</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="birthday">Дата рождения</string>
+    <string name="city">Город проживания</string>
+    <string name="gender">Пол</string>
+    <string name="email">e-mail</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="books_count">Количество прочитанных книг</string>
+    <string name="no_info">Не указано</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="unknown_error">Произошла неизвестная ошибка</string>
+    <string name="error">Ошибка: %s</string>
+    <string name="no_books">Еще нет прочитанных книг</string>
+</resources>
